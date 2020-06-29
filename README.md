@@ -18,7 +18,7 @@ $ npm install zippydl -g
 Clone This Repository
 
 ```
-$ git clone https://github.com/anasrar/Zippy-DL.git
+$ git clone https://github.com/manlife007/Zippy-DL.git
 ```
 
 Change Directory
